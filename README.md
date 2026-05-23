@@ -5,11 +5,11 @@
 ## About Me
 I know my name kinda sounds like someone's Grandfather that's why i am SJ.
 <br>
-I'm a Computer Science student at **KIIT University** (Class of 2029), passionate about building intelligent systems and the infrastructure that powers them.
+I'm a Bachelor's Student in AI/ML domain, passionate about building intelligent systems and the infrastructure that powers them.
 
 My interests sit at the intersection of **ML Engineering**, **MLOps**, **AI Infrastructure**, and **Cloud Engineering** — I care about not just building models, but deploying, scaling, and maintaining them in production environments.
 
-I'm currently on a self-driven journey to deepen my skills in machine learning, cloud platforms, and DevOps tooling, with a long-term goal of working in **Japan's tech industry** 🇯🇵.
+I'm currently on a self-driven journey to deepen my skills in machine learning, cloud platforms, and DevOps tooling, with a long-term goal of working in a **Dream tech industry**.
 
 Always learning. Always building.
 
