@@ -1,4 +1,4 @@
-Here i post my Day to Day learnings
+WORK HARD
 <br>
 Started: May 2026
 <br>
